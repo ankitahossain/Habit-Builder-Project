@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Habit Builder — Full-Stack Project
 
 A responsive habit tracker built around the supplied project flow: authentication, habit CRUD, daily checklist, current/longest streaks, calendar heatmap, reminders, weekly analytics, and deployment guidance.
